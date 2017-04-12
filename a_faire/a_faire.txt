@@ -1,0 +1,6 @@
+- algo à debugger
+- ré-organiser et documenter le code
+- implémenter dans l'interface graphique : joueur vs joueur
+- mode difficulté moyen à ajouter
+- expliquer comment les algo fonctionnent (complexité O(...))
+- optimisations de l'algo possibles ?
